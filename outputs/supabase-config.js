@@ -3,5 +3,5 @@
   Supabase Dashboard → Project Settings → API
   The anon key is designed to be used in a browser. Never put a service_role key here.
 */
-window.SUPABASE_URL = 'YOUR_SUPABASE_PROJECT_URL';
-window.SUPABASE_ANON_KEY = 'YOUR_SUPABASE_ANON_KEY';
+window.SUPABASE_URL = "https://upjvxnrlklslyybnjswen.supabase.co";
+window.SUPABASE_ANON_KEY = "sb_publishable_Eq1q9DDPJavL5Y40z49Lpg_I1qa11d5";
